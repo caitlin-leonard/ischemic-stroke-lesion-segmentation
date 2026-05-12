@@ -2,13 +2,6 @@
 <p align="center">
   A comparative study of 3D deep learning architectures for multimodal MRI stroke lesion segmentation,
   including a proposed <b>separate-encoder U-Net</b> that achieved the highest mean Dice score.
-</p>
-<p align="center">
-  <b>Dataset:</b>
-  <a href="https://isles22.grand-challenge.org/">ISLES 2022 — Multi-center MRI Stroke Lesion Segmentation</a>
-  &nbsp;|&nbsp;
-  <b>Course:</b> Medical Image Analysis, IIITDM Kancheepuram
-</p>
 
 <hr>
 
