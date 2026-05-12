@@ -2,6 +2,13 @@
 <p align="center">
   A comparative study of 3D deep learning architectures for multimodal MRI stroke lesion segmentation,
   including a proposed <b>separate-encoder U-Net</b> that achieved the highest mean Dice score.
+</p>
+<p align="center">
+  <b>Dataset:</b>
+  <a href="https://isles22.grand-challenge.org/">ISLES 2022 — Multi-center MRI Stroke Lesion Segmentation</a>
+  &nbsp;|&nbsp;
+
+</p>
 
 <hr>
 
@@ -148,6 +155,36 @@ to develop independent representations before late fusion, leading to better seg
 │   └── dice_distribution.png
 └── README.md
 </code></pre>
+
+<hr>
+
+<h3>📄 References</h3>
+<ol>
+  <li>
+    de la Rosa, E., Reyes, M., Liew, S. L., Hutton, A., Wiest, R., Kaesmacher, J., ... & Robben, D. (2025).
+    <b>DeepISLES: a clinically validated ischemic stroke segmentation model from the ISLES'22 challenge.</b>
+    <i>Nature Communications.</i>
+    <a href="https://www.nature.com/articles/s41467-025-62373-x">https://www.nature.com/articles/s41467-025-62373-x</a>
+  </li>
+  <li>
+    Rahman, A., Chowdhury, M. E. H., & Wadud, M. S. I. (2025).
+    <b>Deep learning-driven segmentation of ischemic stroke lesions using multi-channel MRI.</b>
+    <i>Biomedical Signal Processing and Control, 105, 107676.</i>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1746809425001879">https://www.sciencedirect.com/science/article/pii/S1746809425001879</a>
+  </li>
+  <li>
+    Hernandez Petzsche, M. R., de la Rosa, E., Hanning, U., Wiest, R., Valenzuela, W., Reyes, M., ... & Robben, D. (2022).
+    <b>ISLES 2022: A multi-center magnetic resonance imaging stroke lesion segmentation dataset.</b>
+    <i>arXiv preprint.</i>
+    <a href="https://arxiv.org/abs/2209.09546">https://arxiv.org/abs/2209.09546</a>
+  </li>
+  <li>
+    Hernandez Petzsche, M. R., de la Rosa, E., Hanning, U., Wiest, R., Valenzuela, W., Reyes, M., ... & Robben, D. (2022).
+    <b>ISLES 2022: A multi-center magnetic resonance imaging stroke lesion segmentation dataset.</b>
+    <i>Scientific Data, Nature.</i>
+    <a href="https://www.nature.com/articles/s41597-022-01875-5">https://www.nature.com/articles/s41597-022-01875-5</a>
+  </li>
+</ol>
 
 <hr>
 
