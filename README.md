@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <b>Dataset:</b>
-  <a href="https://isles22.grand-challenge.org/">ISLES 2022 — Multi-center MRI Stroke Lesion Segmentation</a>
+  <a href="https://www.isles-challenge.org">ISLES 2022 — Multi-center MRI Stroke Lesion Segmentation</a>
   &nbsp;|&nbsp;
 
 </p>
