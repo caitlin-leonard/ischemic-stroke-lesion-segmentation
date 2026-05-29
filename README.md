@@ -159,3 +159,13 @@ to develop independent representations before late fusion, leading to better seg
   <li>3-fold cross-validation, 30 epochs per fold</li>
   <li>Dice loss, learning rates: 5×10⁻⁴ (U-Net variants), 1×10⁻⁴ (SegResNet)</li>
 </ul>
+
+## 📑 Technical Report
+
+A full technical report documenting the complete methodology, results, 
+and discussion is available here:
+
+🔗 [View Technical Report (PDF)](https://drive.google.com/file/d/1slDqzMPJDzhu75AN4eah2-3BE14MiuAk/view?usp=share_link)
+
+The report covers signal preprocessing, feature extraction, statistical 
+analysis, and machine learning classification in IEEE two-column format.
