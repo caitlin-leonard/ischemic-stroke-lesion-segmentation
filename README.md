@@ -72,43 +72,6 @@ among all tested models.
   <img src="assets/results_table.png" width="750"/>
 </p>
 
-<table align="center">
-  <tr>
-    <th>Model</th>
-    <th>Fold 1 Dice</th>
-    <th>Fold 2 Dice</th>
-    <th>Fold 3 Dice</th>
-    <th>Mean Dice</th>
-  </tr>
-  <tr>
-    <td>3D U-Net</td>
-    <td>0.4147</td>
-    <td>0.5091</td>
-    <td>0.5031</td>
-    <td>0.4756</td>
-  </tr>
-  <tr>
-    <td>Attention U-Net</td>
-    <td>0.4554</td>
-    <td>0.4984</td>
-    <td>0.4557</td>
-    <td>0.4698</td>
-  </tr>
-  <tr>
-    <td>SegResNet</td>
-    <td>0.5118</td>
-    <td>0.5810</td>
-    <td>0.5936</td>
-    <td>0.5621</td>
-  </tr>
-  <tr>
-    <td><b>Separate-Encoder U-Net (Proposed)</b></td>
-    <td><b>0.5465</b></td>
-    <td><b>0.5857</b></td>
-    <td><b>0.5562</b></td>
-    <td><b>0.5628</b></td>
-  </tr>
-</table>
 
 <p align="center"><i>
   The separate-encoder U-Net achieved the highest mean Dice (0.5628).
