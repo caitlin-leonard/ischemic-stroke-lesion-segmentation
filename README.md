@@ -26,7 +26,7 @@ among all tested models.
 A full technical report documenting the complete methodology, results, 
 and discussion is available here:
 
-🔗 [View Technical Report (PDF)](https://drive.google.com/file/d/1iFZ0_usLC6pxc4tUaAl6nXcXW6GQrEeO/view?usp=share_link)
+🔗 [View Technical Report (PDF)](https://drive.google.com/file/d/1aAJpe6R2zlowKeOCTNr5u0igKY0HEEK9/view?usp=sharing)
 
 
 <hr>
